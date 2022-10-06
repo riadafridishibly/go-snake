@@ -7,3 +7,7 @@ Snake game in golang using ebiten.
 ```
 go run main.go
 ```
+
+## Screenshot
+
+![Image](./screenshot.png)
